@@ -4,7 +4,8 @@
 ## Project Overview
 This project focuses on analyzing the performance of a fictional pizza sales dataset using **Power BI**.  
 The goal is to generate actionable business insights, discover trends, and build an interactive dashboard to help business stakeholders make data-driven decisions.
-![image](https://github.com/user-attachments/assets/8cf05dc6-9832-4357-b8b5-33e625d5e4e8)
+![ddddddd](https://github.com/user-attachments/assets/65f42fb1-b217-4c03-bdd3-ef750fbd72f7)
+
 
 ---
 
